@@ -1,3 +1,6 @@
 ifjkjfdsjff
-master 测试冲突
+master 测试冲突 还测试冲突
 test
+jfsdjftest
+强制合并测试  冲突测试
+create dev on branch dev on second
